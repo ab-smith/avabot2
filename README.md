@@ -1,6 +1,6 @@
 # Introduction
 
-**AvaBot2** brings the ultimate experience of having an ~**ava**~tar ro~**bot**~  by combining virtual reality with augmented reality.
+**AvaBot2** brings the ultimate experience of having an **ava**tar ro**bot**  by combining virtual reality with augmented reality.
 
 # Current version
 
